@@ -1,6 +1,7 @@
 import java.util.Random;
 
-public class Main {
+public class Ejercicio1_PP 
+{
     private static final int TAM = 5;
     private static final int RANG = 29;
 
