@@ -31,7 +31,7 @@ public class Ejercicio1_PP
         System.out.println("La suma de los elementos es: " + suma);
     }
 
-    // Inicializa el arreglo con números aleatorios dentro de un rango dado
+    // Inicializa el arreglo con numeros aleatorios dentro de un rango dado
     public static void inicArr(int[] arr, int tam, int rango) {
         Random rand = new Random();
         for (int i = 0; i < tam; i++) {
